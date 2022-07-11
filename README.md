@@ -1,6 +1,6 @@
 # QuestSubmissions
 
-Chapter 1 - Day 1 Responses
+## Chapter 1 - Day 1 Responses
 
 1. Explain what the Blockchain is in your own words. 
 
