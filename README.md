@@ -4,7 +4,7 @@ Chapter 1 - Day 1 Responses
 
 1. Explain what the Blockchain is in your own words. 
 
-The Blockchain is a Open, Decentralized, Public Database that makes it possible to more things via the internet.
+The Blockchain is an Open, Decentralized, Public Database that makes it possible to more things via the internet.
 
 2. Explain what a Smart Contract is. 
 
